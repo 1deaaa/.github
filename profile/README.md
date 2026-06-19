@@ -28,7 +28,7 @@
 
 *New waves forever drown the old tide's song.*
 
-*Fading blooms do not mourn the passing spring,*
+*Blooming flowers do not heed the fleeting spring.*
 
 *Nor falling leaves inquire the autumn's depth.*
 
@@ -66,7 +66,7 @@
 
 *天行本自无休意，后涛长漫旧潮声。*
 
-*花谢不惊春几许，叶落未闻秋几深。*
+*花开不惊春几许，叶落未闻秋几深。*
 
 *枯荣每逐流光逝，何物久留阅古今？*
 
