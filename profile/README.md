@@ -25,12 +25,19 @@
   I hope I can persevere, though it remains but a hope. Given time, will I still be able to face myself with a clear, untroubled conscience?
 
   > *The heavens turn without a thought of rest,*
+> 
   > *New waves forever drown the old tide's song.*
+> 
   > *Fading blooms do not mourn the passing spring,*
+> 
   > *Nor falling leaves inquire the autumn's depth.*
+> 
   > *The old, the new, all chased by flowing time,*
+> 
   > *What remains to witness ages past and now?*
+> 
   > *Beyond the gulls, the azure clouds unroll,*
+> 
   > *Before the bow, the moonlit waters gleam anew.*
 
 </details>
