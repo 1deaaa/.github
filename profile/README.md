@@ -4,41 +4,39 @@
   <summary>🌐 <b>Click here for the English Version</b></summary>
   <br>
 
-  **An ordinary person who loves to create.**
+**Just an ordinary person who loves to create.**
 
-  Born ordinary, the progress of our era empowers us to create what was once beyond reach; yet, inevitably, we too shall be silently washed away by its relentless tide. 
+Ordinary as we are, the march of our era has empowered us to build things that were once completely beyond our reach—yet, one day, we will inevitably be quietly washed away by that same tide.
 
-  I also believe that while it is remarkably easy to take nowadays, it remains profoundly difficult to give. 
-  
-  Since productivity has become so inexpensive, there is truly no point in hoarding what we make. 
+I've also come to realize: in an age where it is so effortless to take, it remains profoundly hard to give. But since the means of creation have become so cheap, there is really no point in hoarding what little I know.
 
-  Why immerse myself in the open-source community? 
+Why do I contribute to open source?
 
-  Perhaps because youth is the last fleeting chapter in life when one is still willing to offer strangers unconditional generosity and trust. 
-  
-  The motive for doing something can be so pure it borders on naive—simply wanting to do it, or even just an earnest desire to show off.
+Perhaps our younger years are the last time in our lives we are willing to offer unconditional generosity and trust to strangers. The motive for doing something can be pure to the point of naive—simply wanting to build it, or perhaps just the earnest desire to make something cool and show it off.
 
-  You and I both know: though the tools of production have been revolutionized, the essence of creation remains utterly unchanged. It is still paid for with tangible personal time and energy. 
-  
-  Behind every contribution is a living, breathing individual who, during their leisure or even working hours, has carved out an irreversible slice of time from a life that is perhaps not so abundant to begin with.
+You and I both know that while the tools of creation have been revolutionized, the essence of creation hasn't changed a bit. It is still paid for with tangible, personal time and energy.
 
-  I hope I can persevere, though it remains but a hope. Given time, will I still be able to face myself with a clear, untroubled conscience?
+Behind every project is a flesh-and-blood individual, spending their evenings or even stealing hours from work, carving irreversible slices of time out of a life that may not have much to spare.
 
-*The heavens turn without a thought of rest,*
+Today, technology evolves at an unprecedented pace, and countless projects will inevitably be swallowed by the flood. If so, what exactly am I doing this for? Is there any technology or product out there that can truly remain evergreen?
 
-*New waves forever drown the old tide's song.*
+I hope I can keep going—though hope is all it is. Years from now, will I still be able to look myself in the eye, honest and unashamed?
 
-*Blooming flowers do not heed the fleeting spring.*
+*The heavens wheel and never ask for rest,*
 
-*Nor falling leaves inquire the autumn's depth.*
+*New waves wash out the echoes of the old.*
 
-*The old, the new, all chased by flowing time,*
+*Flowers bloom, blind to the waning spring,*
 
-*What remains to witness ages past and now?*
+*Leaves drift down, deaf to the autumn's depth.*
 
-*Beyond the gulls, the azure clouds unroll,*
+*Why sow these words across a barren field?*
 
-*Before the bow, the moonlit waters gleam anew.*
+*Through blight and bloom, what ever stays the same?*
+
+*Beyond the gulls, the clouds unfurl at will,*
+
+*Before the prow, the moon is always new.*
 
 </details>
 
@@ -62,12 +60,14 @@
 
 背后都是某个具体的人，在某个闲暇甚至工作时间，从自己或许并不富裕的人生里裁下的一块块不可逆的时间。
 
+如今技术更迭空前之快，许多项目终究会被洪流埋没。既如此，我做这些，究竟是为了什么？又有什么技术和产品能永葆长青呢？
+
 我希望我能坚持下去，但也只是希望。假以时日，我是否还能坦坦荡荡见自己？
 
-*天行本自无休意，后涛长漫旧潮声。*
+*天行本自无休意，后浪长漫旧潮声。*
 
 *花开不惊春几许，叶落未闻秋几深。*
 
-*枯荣每逐流光逝，何物久留阅古今？*
+*种字荒畦图底事，枯荣何物每如初？*
 
 *鸥外青天云自卷，舟前沧水月恒新。*
