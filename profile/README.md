@@ -68,6 +68,6 @@ I hope I can keep going—though hope is all it is. Years from now, will I still
 
 *花开不惊春几许，叶落未闻秋几深。*
 
-*种字荒畦图底事，荣枯历尽何如初？*
+*种字荒畦图底事，荣枯历尽何久春？*
 
 *鸥外青天云自卷，舟前沧水月恒新。*
