@@ -16,6 +16,7 @@
 - **跨栈迁移能力**：Python 主栈 + Java/TypeScript 双栈交付，能用任意栈把同一系统重做一遍（Occuspec 即 Python RAG 的 Java 重写）
 
 ## 代表项目
+
 ### SparkArc Studio · 多 Agent 自主创作平台
 智能体集群驱动的创作 IDE：LangGraph 导演 Agent 自主拆解意图，分发给执笔、审稿、演出统筹等 6 类专家 Agent，实现无人值守管道与断点恢复。
 - **多 Agent 编排**：导演-专家双层调度，任务分发 + 中断恢复 + 后台无人管道
@@ -28,8 +29,8 @@
 ### LUI-for-All · 零侵入 Agentic 自然语言接口
 给任何传统后端加自然语言操作层：MCP 接入、源码只读、写操作隔离、5 级安全分级 + 人工审批。
 - [代码](https://github.com/1deaaa/lui-for-all) · [在线体验](https://lui.1dea.top)
-- 
 ### Occuspec · 职业健康检查辅助判定系统
+
 Agentic Metadata RAG，结论可溯源至 GBZT 条款原文；自编排 agent flow 和 RAG。
 - Spring Boot 3.5 / Java 21 / MyBatis-Plus / Redis / PGVector；分布式锁降级、限流 / 幂等 / 审计切面
 
