@@ -1,73 +1,42 @@
-# 关于我 / About Me
+# 1deaaa
+大模型 Agent 应用开发工程师
+两年 LLM / Agent 全栈工程实践：多 Agent 编排、MCP 协议、RAG、模型后训练与量化部署、全链路交付。擅长把模糊需求拆成可落地系统，并单人保持团队级交付节奏。
 
-<details>
-  <summary>🌐 <b>Click here for the English Version</b></summary>
-  <br>
+## 技术栈
 
-**Just an ordinary person who loves to create.**
+- **语言**：Python（FastAPI / Django）· TypeScript（Vue3 / Tauri）· Java（Spring Boot / MyBatis-Plus）· C#
+- **Agent / LLM**：LangChain / LangGraph 多 Agent 编排 · MCP 协议开发（server / 网关 / 聚合代理）· RAG（Agentic + Graph）· Context Engineering · Prompt 工程
+- **模型层**：SFT（Unsloth / TRL / PEFT，INT8 LoRA）· 合成数据生产与审计 · 确定性评测框架 · llama.cpp / GGUF 量化部署
+- **工程化**：Docker · CI/CD（GitHub Actions / Gitea / GitLab）· Linux · 全栈交付
 
-Ordinary as we are, the march of our era has empowered us to build things that were once completely beyond our reach—yet, one day, we will inevitably be quietly washed away by that same tide.
+## 个人能力
+- **技术负责人经验**：带 6~8 人团队交付 3 个全栈产品（教学智能体 / 文旅平台 / 外包商城）
+- **AI 协作范式**：主导 AI 协作规范在多人团队落地；本人以架构+AI 辅助单人维持团队级交付节奏
+- **开源社区运营**：SparkArc 维护 80 人反馈社群，处理 issue 与用户反馈闭环
+- **跨栈迁移能力**：Python 主栈 + Java/TypeScript 双栈交付，能用任意栈把同一系统重做一遍（Occuspec 即 Python RAG 的 Java 重写）
 
-I've also come to realize: in an age where it is so effortless to take, it remains profoundly hard to give. But since the means of creation have become so cheap, there is really no point in hoarding what little I know.
+## 代表项目
+### SparkArc Studio · 多 Agent 自主创作平台
+智能体集群驱动的创作 IDE：LangGraph 导演 Agent 自主拆解意图，分发给执笔、审稿、演出统筹等 6 类专家 Agent，实现无人值守管道与断点恢复。
+- **多 Agent 编排**：导演-专家双层调度，任务分发 + 中断恢复 + 后台无人管道
+- **上下文工程**：ARC 剧本文本格式较等效 JSON 省约三成 token（实测 37.4%）· 动态记忆池 + 判别工单 · Agentic + Graph RAG
+- **成本优化**：缓存友好排布，DeepSeek V4 实测第二轮命中约 95%
+- **交付形态**：公网 SaaS + 本地部署双形态，四语国际化；Tauri 桌面端 + Android
 
-Why do I contribute to open source?
+- [代码](https://github.com/1deaaa/spark-arc-studio) · [在线体验](https://arc.1dea.top)
 
-Perhaps our younger years are the last time in our lives we are willing to offer unconditional generosity and trust to strangers. The motive for doing something can be pure to the point of naive—simply wanting to build it, or perhaps just the earnest desire to make something cool and show it off.
+### LUI-for-All · 零侵入 Agentic 自然语言接口
+给任何传统后端加自然语言操作层：MCP 接入、源码只读、写操作隔离、5 级安全分级 + 人工审批。
+- [代码](https://github.com/1deaaa/lui-for-all) · [在线体验](https://lui.1dea.top)
+- 
+### Occuspec · 职业健康检查辅助判定系统
+Agentic Metadata RAG，结论可溯源至 GBZT 条款原文；自编排 agent flow 和 RAG。
+- Spring Boot 3.5 / Java 21 / MyBatis-Plus / Redis / PGVector；分布式锁降级、限流 / 幂等 / 审计切面
 
-You and I both know that while the tools of creation have been revolutionized, the essence of creation hasn't changed a bit. It is still paid for with tangible, personal time and energy.
+### Delta-Scope-MCP · 前端逐帧调试 MCP
+让纯文本模型看懂前端动画与 DOM 动态：page_map + timeline + focus。
+- [代码](https://github.com/1deaaa/delta-scope-mcp) · `npx delta-scope@latest`
 
-Behind every project is a flesh-and-blood individual, spending their evenings or even stealing hours from work, carving irreversible slices of time out of a life that may not have much to spare.
+## 联系
 
-Today, technology evolves at an unprecedented pace, and countless projects will inevitably be swallowed by the flood. If so, what exactly am I doing this for? Is there any technology or product out there that can truly remain evergreen?
-
-I hope I can keep going—though hope is all it is. Years from now, will I still be able to look myself in the eye, honest and unashamed?
-
-*The heavens wheel and never ask for rest,*
-
-*New waves wash out the echoes of the old.*
-
-*Flowers bloom, blind to the waning spring,*
-
-*Leaves drift down, deaf to the autumn's depth.*
-
-*Why sow these words across a barren field?*
-
-*Through blight and bloom, what ever stays the same?*
-
-*Beyond the gulls, the clouds unfurl at will,*
-
-*Before the prow, the moon is always new.*
-
-</details>
-
-<br>
-
-**一个喜欢创作的普通人。**
-
-平凡的我们，因时代的进步而得以创作曾经无法企及的东西；而终有一天，我们也会被其无声洗刷。
-
-我亦认为，即使如今取之易，献之却难。
-
-既然生产力廉价了，那也没什么自己藏着掖着的必要了。
-
-为什么混开源社区？
-
-年少时代可能是人最后愿意对陌生人怀抱无条件慷慨与信任的时光。
-
-做一件事的理由可以纯粹到天真——只是想做，甚至只是为了认真地装逼。
-
-你我都明白，即使生产工具已经革新，但生产的本质却未变丝毫，它仍是要用实实在在的个人时间与精力换来。
-
-背后都是某个人，在某个难得的闲暇时间，从自己或许并不富裕的人生里裁下的一块块时间。
-
-如今技术更迭空前之快，许多项目终究会被洪流埋没。既如此，我做这些，究竟是为了什么？又有什么技术和产品能永葆长青呢？
-
-我希望我能坚持下去，但也只是希望。假以时日，我是否还能坦坦荡荡见自己？
-
-*天行本自无休意，后浪长漫旧潮声。*
-
-*花开不惊春几许，叶落未觉秋几深。*
-
-*种字荒畦图底事，荣枯历尽何久春？*
-
-*鸥外青天云自卷，舟前沧水月恒新。*
+[博客 1dea.top](https://1dea.top) · [Email](mailto:aideaaa@outlook.com) 
