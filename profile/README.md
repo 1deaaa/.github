@@ -40,4 +40,4 @@ Agentic Metadata RAG，结论可溯源至 GBZT 条款原文；自编排 agent fl
 
 ## 联系
 
-[博客 1dea.top](https://1dea.top) · Email:aideaaa@outlook.com
+[博客 1dea.top](https://1dea.top) · 邮箱：aideaaa@outlook.com
