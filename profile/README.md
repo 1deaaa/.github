@@ -1,21 +1,16 @@
 # 1deaaa
 大模型 Agent 应用开发工程师
-两年 LLM / Agent 全栈工程实践：多 Agent 编排、MCP 协议、RAG、模型后训练与量化部署、全链路交付。擅长把模糊需求拆成可落地系统，并单人保持团队级交付节奏。
+实践AI全栈工程：两年 LLM / Agent 实践，独立交付 20+ 开源项目；覆盖模型后训练—推理—模型网关—上下文工程—Agent Harness—MCP / RAG —前后端交付，可独立打通 Model-Infra-Harness 全链路。
 
 ## 技术栈
+AI Agent 全栈开发：LangChain / LangGraph 多 Agent 编排（记忆管理、Agent 委派协作、缓存优化）、MCP 开发、RAG（Agentic + Graph+Metadata RAG）、上下文工程、Prompt 工程。
 
-- **语言**：Python（FastAPI / Django）· TypeScript（Vue3 / Tauri）· Java（Spring Boot / MyBatis-Plus）· C#
-- **Agent / LLM**：LangChain / LangGraph 多 Agent 编排 · MCP 协议开发（server / 网关 / 聚合代理）· RAG（Agentic + Graph）· Context Engineering · Prompt 工程
-- **模型层**：SFT（Unsloth / TRL / PEFT，INT8 LoRA）· 合成数据生产与审计 · 确定性评测框架 · llama.cpp / GGUF 量化部署
-- **工程化**：Docker · CI/CD（GitHub Actions / Gitea / GitLab）· Linux · 全栈交付
+前后端开发：Python（FastAPI / Django）、Java（Spring Boot 3 / MyBatis-Plus / Redis / Flyway / Sa-Token）、TypeScript（Vue3 / React / Next.js / Tauri）、数据库（PostgreSQL /PGVector / MySQL ）、C# / Unity
 
-## 个人能力
-- **技术负责人经验**：带 6~8 人团队交付 3 个全栈产品（教学智能体 / 文旅平台 / 外包商城）
-- **AI 协作范式**：主导 AI 协作规范在多人团队落地；本人以架构+AI 辅助单人维持团队级交付节奏
-- **开源社区运营**：SparkArc 维护 80 人反馈社群，处理 issue 与用户反馈闭环
-- **跨栈迁移能力**：Python 主栈 + Java/TypeScript 双栈交付，能用任意栈把同一系统重做一遍（Occuspec 即 Python RAG 的 Java 重写）
+LLM后训练与推理：SFT（Unsloth / TRL / PEFT，INT8 LoRA）、合成数据审计与确定性评测；SGLang（RadixAttention、LoRA Serving、continuous batching）与 llama.cpp / GGUF 量化部署。
 
-## 代表项目
+工程化与交付：Linux（Ubuntu / Debian）、Docker Compose、1Panel；GitHub / Gitea / GitLab CI。
+个人概述# 代表项目
 
 ### SparkArc Studio · 多 Agent 自主创作平台
 智能体集群驱动的创作 IDE：LangGraph 导演 Agent 自主拆解意图，分发给执笔、审稿、演出统筹等 6 类专家 Agent，实现无人值守管道与断点恢复。
