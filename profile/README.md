@@ -1,6 +1,6 @@
 # 1deaaa
 大模型 Agent 应用开发工程师
-实践AI全栈工程：两年 LLM / Agent 实践，独立交付 20+ 开源项目；覆盖模型后训练—推理—模型网关—上下文工程—Agent Harness—MCP / RAG —前后端交付，可独立打通 Model-Infra-Harness 全链路。
+实践AI全栈工程：从2024年开始 LLM / Agent 实践，独立交付 20+ 开源项目；覆盖模型后训练—推理—模型网关—上下文工程—Agent Harness—MCP / RAG —前后端交付，可独立打通 Model-Infra-Harness 全链路。
 
 ## 技术栈
 AI Agent 全栈开发：LangChain / LangGraph 多 Agent 编排（记忆管理、Agent 委派协作、缓存优化）、MCP 开发、RAG（Agentic + Graph+Metadata RAG）、上下文工程、Prompt 工程。
